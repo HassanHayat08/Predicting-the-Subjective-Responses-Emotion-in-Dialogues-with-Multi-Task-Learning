@@ -1,0 +1,2 @@
+# Predicting-the-Subjective-Responses-Emotion-in-Dialogues-with-Multi-Task-Learning
+Anticipating the subjective emotional responses of the user is an interesting capacity for automatic dialogue systems. In this work, given a piece of a dialog, we addressed the problem of predicting the subjective emotional response of the upcoming utterances (i.e. the emo- tion that will be expressed by the next speaker when the speaker talks).
